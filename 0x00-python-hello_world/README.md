@@ -5,3 +5,4 @@
 5 Print String
 6 Play with Strings
 7 edges
+8 create a new sentence
