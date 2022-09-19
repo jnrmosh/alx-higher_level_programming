@@ -3,3 +3,4 @@
 3 Print Integer
 4 Print Float
 5 Print String
+6 Play with Strings
