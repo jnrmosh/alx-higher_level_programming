@@ -5,3 +5,4 @@
 5 print numbers from 00 to 99
 6 different combinations of 2 digits
 7 check for lowercase character
+8 uppercase conversion
