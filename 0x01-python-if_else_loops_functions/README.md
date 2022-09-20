@@ -2,3 +2,4 @@
 1 The Last digit
 2 print alphabet
 3 print alphabet except e and q
+5 print numbers from 00 to 99
