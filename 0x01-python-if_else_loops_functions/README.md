@@ -8,3 +8,4 @@
 8 uppercase conversion
 9 print last digit of a number
 add 2 integers
+11 power of a & b
