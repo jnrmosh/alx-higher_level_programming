@@ -7,3 +7,4 @@
 7 check for lowercase character
 8 uppercase conversion
 9 print last digit of a number
+add 2 integers
