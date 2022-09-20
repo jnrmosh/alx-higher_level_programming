@@ -6,3 +6,4 @@
 6 different combinations of 2 digits
 7 check for lowercase character
 8 uppercase conversion
+9 print last digit of a number
