@@ -3,3 +3,4 @@
 1 Calculator.py
 2 print number and list of arguments
 3 infinte add
+4 print hidden names
